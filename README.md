@@ -1,2 +1,2 @@
 # AppClima
-Aplicativo desenvolvido usando React Native
+Aplicativo desenvolvido usando React Native e expo
